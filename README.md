@@ -1,4 +1,6 @@
 # Git-tutorial-basiko
 Tutorial básico de Git para Código ioT
 
-Eta primera linea corresponde a la modificacion de este documento de texto a treves de esta vaina perrona
+Esta primera linea corresponde a la modificacion de este documento de texto a treves de esta vaina perrona.
+
+Es un buen comieno, no tuvimos errores y esto me emociona, jeje.
